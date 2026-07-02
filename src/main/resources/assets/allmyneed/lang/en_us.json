@@ -1,0 +1,19 @@
+{
+  "itemGroup.allmyneed": "All My Need",
+  "itemGroup.allmyneed.custom_needs": "All My Need",
+  "gui.allmyneed.page": "Page %s",
+  "gui.allmyneed.save": "Save",
+  "gui.allmyneed.save.tooltip": "Save custom creative items",
+  "gui.allmyneed.edit": "Edit",
+  "gui.allmyneed.done": "Done",
+  "gui.allmyneed.edit.tooltip": "Toggle edit mode",
+  "gui.allmyneed.page_name": "Page name",
+  "gui.allmyneed.page_named": "Page: %s",
+  "gui.allmyneed.add_page": "Add page",
+  "gui.allmyneed.delete_page.short": "Del",
+  "gui.allmyneed.delete_page.tooltip": "Delete current page",
+  "gui.allmyneed.move_page_up.short": "Up",
+  "gui.allmyneed.move_page_up.tooltip": "Move current page up",
+  "gui.allmyneed.editing": "Editing",
+  "config.allmyneed.register_tab_as_first": "Register creative tab as first tab"
+}

@@ -1,0 +1,19 @@
+{
+  "itemGroup.allmyneed": "All My Need",
+  "itemGroup.allmyneed.custom_needs": "所需物品",
+  "gui.allmyneed.page": "第 %s 页",
+  "gui.allmyneed.save": "保存",
+  "gui.allmyneed.save.tooltip": "保存自定义创造物品栏",
+  "gui.allmyneed.edit": "编辑",
+  "gui.allmyneed.done": "完成",
+  "gui.allmyneed.edit.tooltip": "切换编辑模式",
+  "gui.allmyneed.page_name": "页名称",
+  "gui.allmyneed.page_named": "页面：%s",
+  "gui.allmyneed.add_page": "添加页面",
+  "gui.allmyneed.delete_page.short": "删除",
+  "gui.allmyneed.delete_page.tooltip": "删除当前页",
+  "gui.allmyneed.move_page_up.short": "上移",
+  "gui.allmyneed.move_page_up.tooltip": "当前页向上移动一位",
+  "gui.allmyneed.editing": "编辑中",
+  "config.allmyneed.register_tab_as_first": "是否将该模组的标签注册在第一栏"
+}
